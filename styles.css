@@ -1,0 +1,49 @@
+header {
+  background-color: #2c3139;
+  width: 1917px;
+  height: 137px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.three-lines {
+  height: 28px;
+  width: 40px;
+}
+
+.site-logo {
+  width: 58px;
+  height: 63px;
+}
+
+.search-bar {
+  width: 560px;
+  height: 60px;
+}
+
+.search-icon {
+  width: 28.44px;
+  height: 32.85px;
+}
+
+.heart {
+  width: 37px;
+  height: 37px;
+}
+
+.cart {
+  width: 40px;
+  height: 40px;
+}
+
+.user {
+  width: 40px;
+  height: 44.11px;
+}
+
+.eng {
+  width: 43px;
+  height: 24px;
+}
